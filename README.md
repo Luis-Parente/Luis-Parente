@@ -11,8 +11,6 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" />
-  <!-- Ícones que não estão no Devicon precisam ser adicionados manualmente -->
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/swagger/swagger.png" height="30" />
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" height="30" />
 </p>
