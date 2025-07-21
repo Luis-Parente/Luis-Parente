@@ -4,33 +4,47 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
 
 # 🛠️ Technical Skills
 
-## Programming Languages
+## Programming Language
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
 </p>
 
-## Other stacks
+## Java Ecosystem
+
+### 🧩 Spring Framework
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/HATEOAS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/HATEOAS-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+</p>
+
+### 🛢️ Persistência & Banco de Dados
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" />
+</p>
+
+### ✅ Testes & Documentação
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-4CAF50?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/RestAssured-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
+</p>
+
+### 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ## My Soft Skills
