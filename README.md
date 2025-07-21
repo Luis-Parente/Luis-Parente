@@ -21,10 +21,7 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/H2%20Database-1D6DB5?style=for-the-badge&logo=h2&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 8px;" />
