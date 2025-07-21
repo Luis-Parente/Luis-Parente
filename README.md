@@ -4,13 +4,11 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
 
 # 🛠️ Technical Skills
 
-## Programming Language
+### Programming Language
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
 </p>
-
-## Java Ecosystem
 
 ### 🧩 Spring Framework
 
@@ -22,7 +20,7 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
   <img src="https://img.shields.io/badge/HATEOAS-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
-### 🛢️ Persistência & Banco de Dados
+### 🛢️ Persistence & Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
@@ -31,7 +29,7 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" />
 </p>
 
-### ✅ Testes & Documentação
+### ✅ Testing & Documentation
 
 <p align="left">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
@@ -40,7 +38,7 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
 </p>
 
-### 🛠️ Ferramentas
+### 🛠️ Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
