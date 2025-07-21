@@ -26,9 +26,7 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
   <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/TDD-%23F34B7D?style=for-the-badge&logo=testinglibrary&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/HATEOAS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" style="border-radius: 8px;" />
   <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 8px;" />
