@@ -16,8 +16,9 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="50" alt="junit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" alt="swagger" />
 </p>
-<details>
-<summary>My Soft Skills</summary>
+
+## My Soft Skills
+
 - Strong communication skills
 - Adaptability to diverse work environments and new technologies
 - Constantly seeking new learning opportunities and challenges
@@ -28,13 +29,11 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
 - Ability to remain calm and troubleshoot under pressure
 </details>
 
-<details>
-<summary>Github stats</summary>
+## Github Stats
 <div>
 <a href="[https://github.com/seu-usuário-aqui](https://github.com/Luis-Parente)">
 <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Parente&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Luis-Parente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-</details>
   
 ## Thank you for visiting my profile.
 
