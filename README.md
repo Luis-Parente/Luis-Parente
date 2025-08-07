@@ -29,7 +29,7 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
 - Ability to remain calm and troubleshoot under pressure
 
 <details>
-## <summary>Github stats</summary>
+<summary>## Github stats</summary>
 <div>
 <a href="[https://github.com/seu-usuário-aqui](https://github.com/Luis-Parente)">
 <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Parente&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Luis-Parente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
