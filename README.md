@@ -2,7 +2,7 @@
 ## Hello, welcome to my profile! 👋
 I graduated with a degree in Industrial Automation Technology in 2021 and later earned a degree in Systems Analysis and Development in 2023. I am currently seeking an opportunity to enter the technology field, where I can apply my knowledge, grow professionally, and contribute to innovative and efficient solutions.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" />
