@@ -30,9 +30,11 @@ I graduated with a degree in Industrial Automation Technology in 2021 and later 
 </details>
 
 ## Github Stats
-<div>
-<a href="https://github.com/Luis-Parente">
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Parente&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Luis-Parente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/Luis-Parente">
+    <img loading="lazy" height="130em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Parente&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
+    <img loading="lazy" height="130em" align="right" src="https://github-readme-stats.vercel.app/api?username=Luis-Parente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
 </div>
   
 ## Thank you for visiting my profile.
