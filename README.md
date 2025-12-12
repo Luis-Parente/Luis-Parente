@@ -1,6 +1,11 @@
 # Luís Gustavo de Souza Parente
-## Hello, welcome to my profile! 👋
-I graduated with a degree in Industrial Automation Technology in 2021 and later earned a degree in Systems Analysis and Development in 2023. I am currently seeking an opportunity to enter the technology field, where I can apply my knowledge, grow professionally, and contribute to innovative and efficient solutions.
+## Olá, bem-vindo ao meu perfil! 👋
+Sou estudante de Sistemas de Informação na Faculdade Impacta. Sou um **Desenvolvedor Fullstack** com foco em **Java/Spring Boot** para backend e **Angular** para frontend, especializado em construir:
+
+- 🔐 **APIs REST seguras e escaláveis** com Spring Boot
+- 🏗️ **Sistemas web robustos** com Angular e TypeScript
+- 📊 **Arquiteturas limpas** aplicando Clean Architecture, DDD e Arquitetura Hexagonal
+- 🐳 **Soluções containerizadas** com Docker
 
 ## Technical Skills
 
