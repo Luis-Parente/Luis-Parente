@@ -1,38 +1,33 @@
 # Luís Gustavo de Souza Parente
 ## Olá, bem-vindo ao meu perfil! 👋
-Sou estudante de Sistemas de Informação na Faculdade Impacta. Sou um **Desenvolvedor Fullstack** com foco em **Java/Spring Boot** para backend e **Angular** para frontend, especializado em construir:
+**Desenvolvedor Fullstack** com foco em **Spring Boot & Angular**, atualmente cursando **Sistemas de Informação na Faculdade Impacta**
 
-- 🔐 **APIs REST seguras e escaláveis** com Spring Boot
-- 🏗️ **Sistemas web robustos** com Angular e TypeScript
-- 📊 **Arquiteturas limpas** aplicando Clean Architecture, DDD e Arquitetura Hexagonal
-- 🐳 **Soluções containerizadas** com Docker
+## 🚀 Habilidades Técnicas
 
-## Technical Skills
-
+### ☕ **Backend & Linguagens**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="50" alt="cassandra" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="50" alt="junit" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" alt="swagger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" title="Spring Boot" />
 </p>
 
-## My Soft Skills
+### ⚛️ **Frontend & Frameworks**
+*Em aprendizado/estudo* 🎯
 
-- Strong communication skills
-- Adaptability to diverse work environments and new technologies
-- Constantly seeking new learning opportunities and challenges
-- Dedicated to fulfilling daily tasks and responsibilities
-- Collaborative team player with clear and assertive communication
-- Self-motivated and proactive in learning
-- Analytical mindset for effective problem-solving
-- Ability to remain calm and troubleshoot under pressure
-</details>
+### 🗄️ **Banco de Dados**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="cassandra" title="Cassandra" />
+</p>
+
+### 🛠️ **Ferramentas & DevOps**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit" title="JUnit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger" title="Swagger" />
+</p>
 
 ## Github Stats
 <div>
@@ -40,6 +35,6 @@ Sou estudante de Sistemas de Informação na Faculdade Impacta. Sou um **Desenvo
 <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Parente&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Luis-Parente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-## Thank you for visiting my profile.
+## Obrigado por visitar meu perfil!.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-parente/)
