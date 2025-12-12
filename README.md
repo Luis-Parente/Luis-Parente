@@ -1,6 +1,6 @@
 # Luís Gustavo de Souza Parente
 ## Olá, bem-vindo ao meu perfil! 👋
-**Desenvolvedor Fullstack** com foco em **Spring Boot & Angular**, atualmente cursando **Sistemas de Informação na Faculdade Impacta**
+Desenvolvedor Full Stack com foco em Backend e desenvolvimento de APIs REST, utilizando tecnologias como Spring Boot e Angular. Atualmente cursando Sistemas de Informação na Faculdade Impacta, com foco em arquitetura de software, boas práticas de desenvolvimento e soluções escaláveis.
 
 ## Habilidades Técnicas
 
