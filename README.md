@@ -5,13 +5,15 @@ Desenvolvedor Full Stack com foco em Backend e desenvolvimento de APIs REST, uti
 ## Habilidades Técnicas
 
 ### **Linguagens & Frameworks**
-
+- Java, JavaScript, TypeScript, HTML, CSS.
+- Spring Boot, Angular. 
 
 ### **Banco de Dados**
+- PostgreSQL, MySQL, H2, MongoDB, Cassandra. 
 
 
 ### **Ferramentas & DevOps**
-
+- Docker, Postman, AWS.
 
 ## Github Stats
 <div>
