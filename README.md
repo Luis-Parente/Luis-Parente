@@ -5,22 +5,23 @@ Desenvolvedor Full Stack com foco em Backend e desenvolvimento de APIs REST, uti
 ## Habilidades Técnicas
 
 ### **Linguagens & Frameworks**
-- Java, JavaScript, TypeScript, HTML, CSS.
-- Spring Boot, Angular. 
+- **Java, JavaScript, TypeScript, HTML, CSS.**
+- **Spring Boot, Angular.** 
 
 ### **Banco de Dados**
-- PostgreSQL, MySQL, H2, MongoDB, Cassandra. 
-
+- **PostgreSQL, MySQL, H2, MongoDB, Cassandra.** 
 
 ### **Ferramentas & DevOps**
-- Docker, Postman, AWS.
+- **Docker, Postman, AWS.**
 
 ## Github Stats
-<div>
-<a href="https://github.com/Luis-Parente">
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Parente&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=Luis-Parente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/Luis-Parente">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Parente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Parente&layout=compact&langs_count=8&theme=dracula&hide=html,css" />
+  </a>
 </div>
-  
+
 ## Obrigado por visitar meu perfil!.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-parente/)
