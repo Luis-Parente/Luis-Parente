@@ -9,7 +9,7 @@ Desenvolvedor Full Stack com foco em Backend e desenvolvimento de APIs REST, uti
 - **Spring Boot, Angular.** 
 
 ### **Banco de Dados**
-- **PostgreSQL, MySQL, H2, MongoDB, Cassandra.** 
+- **PostgreSQL, MySQL, H2, MongoDB, Cassandra.** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Ferramentas & DevOps**
 - **Docker, Postman, AWS.**
