@@ -21,7 +21,7 @@ Desenvolvedor Fullstack com foco em Backend e desenvolvimento de APIs REST. Atua
 ### **Ferramentas & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postman,aws&perline=16" />
+    <img src="https://skillicons.dev/icons?i=docker,aws&perline=16" />
   </a>
 </p>
 
