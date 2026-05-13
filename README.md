@@ -8,17 +8,24 @@ Desenvolvedor Fullstack com foco em Backend e desenvolvimento de APIs REST. Atua
 
 ## Habilidades Técnicas
 
-### **Linguagens & Frameworks**
+### **Front-end**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,nodejs,angular&perline=16" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular&perline=16" />
+  </a>
+</p>
+
+### **Back-end**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs&perline=16" />
   </a>
 </p>
 
 ### **Banco de Dados**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,cassandra&perline=16" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=16" />
   </a>
 </p>
 
