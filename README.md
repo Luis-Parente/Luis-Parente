@@ -19,4 +19,4 @@ Desenvolvedor Fullstack com foco em Backend e desenvolvimento de APIs REST. Atua
 - Cypress, RestAssured, JUnit, Mockito, Postman
 
 ### **Ferramentas & DevOps**
-- Git, Docker, AWS, GitHub Actions
+- Docker, AWS
