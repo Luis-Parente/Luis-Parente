@@ -6,32 +6,17 @@ Desenvolvedor Fullstack com foco em Backend e desenvolvimento de APIs REST. Atua
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-parente/)
 
-## Habilidades Técnicas
-
 ### **Front-end**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular&perline=16" />
-  </a>
-</p>
+- HTML, CSS, JavaScript, TypeScript, Angular
 
 ### **Back-end**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs&perline=16" />
-  </a>
-</p>
+- Java, Spring Boot, Node.js
 
 ### **Banco de Dados**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=16" />
-  </a>
-</p>
+- PostgreSQL, MySQL, MongoDB
+
+### **Testes**
+- Cypress, RestAssured, JUnit, Mockito, Postman
 
 ### **Ferramentas & DevOps**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws&perline=16" />
-  </a>
-</p>
+- Git, Docker, AWS, GitHub Actions
