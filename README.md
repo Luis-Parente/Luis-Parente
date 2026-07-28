@@ -16,6 +16,3 @@ Cypress, RestAssured, JUnit, Mockito, Postman
 
 ### 🐳 **Ferramentas & DevOps**
 Docker, AWS
-
-## 📫 **Contato**
-[LinkedIn](https://www.linkedin.com/in/luis-parente/)
